@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+#internshiptask2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD INFORMATION TECHNOLOGY SERVICE
 
-## Available Scripts
+NAME: Mridul Thapa
 
-In the project directory, you can run:
+INTERN ID: CTO8DK389
 
-### `npm start`
+DOMAIN: Frontend Web Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+DURATION: 8 WEEKS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+MENTOR: Neela Santosh
 
-### `npm test`
+Discription: Real-Time Chat Application
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+During my internship, I developed a real-time chat application using WebSockets for live communication and a modern frontend framework—either Vue.js or React.js—for building the user interface. The main objective of this project was to create a responsive and user-friendly chat interface that supports real-time message exchange along with message history.I used Visual Studio Code (VS Code) as the primary development environment, which helped streamline my workflow through extensions, integrated terminal, and debugging tools. The backend was responsible for managing WebSocket connections and broadcasting messages to all connected clients. On the frontend, I implemented features such as message input, live updates of conversations, and auto-scrolling of chat windows. A key deliverable of this project was the responsive design of the chat interface, ensuring usability across different devices like desktops, tablets, and smartphones. I also implemented message history functionality by fetching previous conversations from the backend and rendering them upon loading the chat window. This enhanced the user experience by preserving context in ongoing conversations.
+Overall, this project helped me gain hands-on experience with WebSockets, state management in frontend frameworks, and responsive UI design, while improving my debugging and problem-solving skills in a real-world scenario.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Output: 
